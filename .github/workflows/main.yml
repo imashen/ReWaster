@@ -39,5 +39,5 @@ jobs:
         context: .
         push: true
         tags: |
-          imashen/ReWaster:latest
+          imashen/rewaster:latest
         platforms: linux/amd64,linux/arm64
